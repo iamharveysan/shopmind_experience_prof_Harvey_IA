@@ -1,0 +1,4 @@
+# Secretos: la clave de OpenAI solo vive en Render
+.env
+api/.env
+node_modules/

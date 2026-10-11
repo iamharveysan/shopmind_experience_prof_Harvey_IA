@@ -1,0 +1,24 @@
+# Blueprint de Render para el proxy del Prof. HARVEY IA.
+# En Render: New > Blueprint > selecciona este repositorio. Te pedirá OPENAI_API_KEY.
+services:
+  - type: web
+    name: shopmind-harvey-ia
+    runtime: node
+    plan: free
+    rootDir: api
+    buildCommand: npm install
+    startCommand: npm start
+    healthCheckPath: /health
+    envVars:
+      - key: OPENAI_API_KEY
+        sync: false
+      - key: OPENAI_MODEL
+        value: gpt-4.1-mini
+      - key: ALLOWED_ORIGINS
+        value: https://iamharveysan.github.io
+      - key: TRUST_PROXY
+        value: "true"
+      - key: MAX_HOURLY_PER_IP
+        value: "40"
+      - key: MAX_DAILY_REQUESTS
+        value: "1500"

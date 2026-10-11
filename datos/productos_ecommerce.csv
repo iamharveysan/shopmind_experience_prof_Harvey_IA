@@ -1,0 +1,31 @@
+﻿producto_id,producto,categoria,precio_cop,marca
+P001,Audífonos Bluetooth,Tecnología,179900,Nexo Tecnología
+P002,Reloj inteligente,Tecnología,329900,Nexo Tecnología
+P003,Teclado mecánico,Tecnología,249900,Nexo Tecnología
+P004,Parlante portátil,Tecnología,149900,Nexo Tecnología
+P005,Cámara web HD,Tecnología,119900,Nexo Tecnología
+P006,Cargador inalámbrico,Tecnología,89900,Nexo Tecnología
+P007,Tenis running,Deporte,279900,Nexo Deporte
+P008,Maleta deportiva,Deporte,139900,Nexo Deporte
+P009,Botella térmica,Deporte,69900,Nexo Deporte
+P010,Banda elástica fitness,Deporte,49900,Nexo Deporte
+P011,Mat de yoga,Deporte,109900,Nexo Deporte
+P012,Camiseta deportiva,Deporte,79900,Nexo Deporte
+P013,Chaqueta urbana,Moda,289900,Nexo Moda
+P014,Jeans clásico,Moda,189900,Nexo Moda
+P015,Gafas de sol,Moda,129900,Nexo Moda
+P016,Tenis casuales,Moda,239900,Nexo Moda
+P017,Bolso cruzado,Moda,159900,Nexo Moda
+P018,Gorra premium,Moda,69900,Nexo Moda
+P019,Cafetera compacta,Hogar,259900,Nexo Hogar
+P020,Lámpara LED,Hogar,99900,Nexo Hogar
+P021,Organizador escritorio,Hogar,59900,Nexo Hogar
+P022,Freidora de aire,Hogar,429900,Nexo Hogar
+P023,Cojín decorativo,Hogar,79900,Nexo Hogar
+P024,Termo para café,Hogar,64900,Nexo Hogar
+P025,Protector solar facial,Belleza,94900,Nexo Belleza
+P026,Kit cuidado facial,Belleza,179900,Nexo Belleza
+P027,Perfume unisex,Belleza,249900,Nexo Belleza
+P028,Sérum hidratante,Belleza,119900,Nexo Belleza
+P029,Crema corporal,Belleza,69900,Nexo Belleza
+P030,Mascarilla facial,Belleza,44900,Nexo Belleza
